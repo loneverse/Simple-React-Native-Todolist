@@ -4,6 +4,13 @@ Simple React Native Todolist with Chatroom features in Development. Love it, don
 
 ## Installation
 
+`npx create-expo-app to-do-list`
+
+`cd to-do-list`
+
+`npx expo start`
+
+
 - Switch to the master branch
 
 - `git clone <Repo name>`
